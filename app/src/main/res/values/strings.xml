@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Notes</string>
+    <string name="file_name">Notes.json</string>
+    <string name="aboutinfo">© 2021, Saurabh Jadhav</string>
+    <string name="version">Version 1.0</string>
+
+</resources>
